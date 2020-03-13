@@ -20,7 +20,7 @@ function App() {
 		
 		 <p className="App-intro">
           Edit <code>src/App.js</code> and save to reload.
-		  Welcome to react world. Hai Venu
+		  i was cheanged in feature branch
         </p>
       </header>
 	    
