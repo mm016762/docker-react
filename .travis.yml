@@ -6,4 +6,4 @@
     - docker build -t katumalla1234/docker-react -f Dockerfile.dev .  
     
   script:
-    - docker run katumalla1234/docker-react npm run test -- -- coverage  
+    - docker run katumalla1234/docker-react npm run test -- --coverage  
